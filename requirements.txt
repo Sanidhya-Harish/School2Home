@@ -1,0 +1,8 @@
+playwright
+requests
+streamlit
+pypdf
+groq
+supabase
+streamlit-calendar
+python-dotenv
